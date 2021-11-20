@@ -1,0 +1,644 @@
+2021-11-19 10:24:36 info:  [login.js]  METODO: Login
+2021-11-19 10:24:36 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JLOPEZ
+2021-11-19 10:24:36 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 10:24:36 info:  [login.dao.js] [Usuario: JLOPEZ] METODO: BdObtenerUsuario 
+2021-11-19 10:24:38 info:  [login.dao.js] [Usuario: JLOPEZ] METODO: BdObtenerMenu 
+2021-11-19 10:24:38 info: query_str====================================>
+2021-11-19 10:24:38 info: CALL spConsultaMenu(3)
+2021-11-19 10:24:38 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = false, mensaje = No se encontró información de Menú con el Perfil indicado, codigo =  AV201
+2021-11-19 10:24:38 info: hash------------------------------->
+2021-11-19 10:24:38 info: $2b$10$7B7u8RIPJsnTRLtjPit6/OYD/bxMrDVXIgBGPo5PyecvW8IytpysG
+2021-11-19 10:24:53 info:  [login.js]  METODO: Login
+2021-11-19 10:24:53 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 10:24:53 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 10:24:53 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 10:24:53 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 10:24:53 info: query_str====================================>
+2021-11-19 10:24:53 info: CALL spConsultaMenu(1)
+2021-11-19 10:24:53 info: hash------------------------------->
+2021-11-19 10:24:53 info: $2b$10$5sHOZl21qdZgAwpebcjE8eC7ZHReb.oJpzGhlLCxEoHI8AnSvOf6e
+2021-11-19 10:24:54 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 10:24:54 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 10:24:54 info: query_str====================================>
+2021-11-19 10:24:54 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 10:24:54 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 10:26:24 info:  [login.js]  METODO: Login
+2021-11-19 10:26:24 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 10:26:24 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 10:26:24 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 10:26:25 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 10:26:25 info: query_str====================================>
+2021-11-19 10:26:25 info: CALL spConsultaMenu(1)
+2021-11-19 10:26:25 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 10:26:25 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 10:26:25 info: query_str====================================>
+2021-11-19 10:26:25 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 10:26:25 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 10:26:25 info: numPrivilegios
+2021-11-19 10:26:25 info: 11
+2021-11-19 10:26:25 info: i
+2021-11-19 10:26:25 info: 0
+2021-11-19 10:26:25 info: i
+2021-11-19 10:26:25 info: 1
+2021-11-19 10:26:25 info: i
+2021-11-19 10:26:25 info: 2
+2021-11-19 10:26:25 info: i
+2021-11-19 10:26:25 info: 3
+2021-11-19 10:26:25 info: i
+2021-11-19 10:26:25 info: 4
+2021-11-19 10:26:25 info: i
+2021-11-19 10:26:25 info: 5
+2021-11-19 10:26:25 info: i
+2021-11-19 10:26:25 info: 6
+2021-11-19 10:26:25 info: i
+2021-11-19 10:26:25 info: 7
+2021-11-19 10:26:25 info: i
+2021-11-19 10:26:25 info: 8
+2021-11-19 10:26:25 info: i
+2021-11-19 10:26:25 info: 9
+2021-11-19 10:26:25 info: i
+2021-11-19 10:26:25 info: 10
+2021-11-19 10:26:25 info: hash------------------------------->
+2021-11-19 10:26:25 info: $2b$10$1VNvtnVWXf2pvSY6MxpQYepZW8FQ9.Db67JPau/m8Jzk4kmY8ll2O
+2021-11-19 10:27:41 info:  [login.js]  METODO: Login
+2021-11-19 10:27:41 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 10:27:41 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 10:27:41 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 10:27:41 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 10:27:41 info: query_str====================================>
+2021-11-19 10:27:41 info: CALL spConsultaMenu(1)
+2021-11-19 10:27:41 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 10:27:41 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 10:27:41 info: query_str====================================>
+2021-11-19 10:27:41 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 10:27:41 info: hash------------------------------->
+2021-11-19 10:27:41 info: $2b$10$GxrliRxt67galu/hDXsvjuMvSWo.0zKPGEVlcFwVDIJJ/t09VPQLK
+2021-11-19 10:27:41 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 10:27:41 info: numPrivilegios
+2021-11-19 10:27:41 info: 11
+2021-11-19 10:27:41 info: i
+2021-11-19 10:27:41 info: 0
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: i
+2021-11-19 10:27:41 info: 1
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: i
+2021-11-19 10:27:41 info: 2
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: i
+2021-11-19 10:27:41 info: 3
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: i
+2021-11-19 10:27:41 info: 4
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: i
+2021-11-19 10:27:41 info: 5
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: i
+2021-11-19 10:27:41 info: 6
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: i
+2021-11-19 10:27:41 info: 7
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: i
+2021-11-19 10:27:41 info: 8
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: i
+2021-11-19 10:27:41 info: 9
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: i
+2021-11-19 10:27:41 info: 10
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:27:41 info: [object Object]
+2021-11-19 10:29:19 info:  [login.js]  METODO: Login
+2021-11-19 10:29:19 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 10:29:19 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 10:29:19 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 10:29:19 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 10:29:19 info: query_str====================================>
+2021-11-19 10:29:19 info: CALL spConsultaMenu(1)
+2021-11-19 10:29:19 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 10:29:19 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 10:29:19 info: query_str====================================>
+2021-11-19 10:29:19 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 10:29:19 info: hash------------------------------->
+2021-11-19 10:29:19 info: $2b$10$liYXzRg5PloiwGoLrDmSIuTFCI/ZmVmwx60RAXjIImGh1xy.5WOJW
+2021-11-19 10:29:19 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 10:29:19 info: numPrivilegios
+2021-11-19 10:29:19 info: 11
+2021-11-19 10:29:19 info: i
+2021-11-19 10:29:19 info: 0
+2021-11-19 10:29:19 info: [object Object]
+2021-11-19 10:29:19 info: [object Object]
+2021-11-19 10:29:19 info: i
+2021-11-19 10:29:19 info: 1
+2021-11-19 10:29:19 info: i mayor que cero y dato anterior diferente al actual
+2021-11-19 10:29:19 info: [object Object]
+2021-11-19 10:29:19 info: [object Object]
+2021-11-19 10:29:19 info: i
+2021-11-19 10:29:19 info: 2
+2021-11-19 10:29:19 info: i
+2021-11-19 10:29:19 info: 3
+2021-11-19 10:29:19 info: i
+2021-11-19 10:29:19 info: 4
+2021-11-19 10:29:19 info: i
+2021-11-19 10:29:19 info: 5
+2021-11-19 10:29:19 info: i mayor que cero y dato anterior diferente al actual
+2021-11-19 10:29:19 info: [object Object]
+2021-11-19 10:29:19 info: [object Object]
+2021-11-19 10:29:19 info: i
+2021-11-19 10:29:19 info: 6
+2021-11-19 10:29:19 info: i
+2021-11-19 10:29:19 info: 7
+2021-11-19 10:29:19 info: i
+2021-11-19 10:29:19 info: 8
+2021-11-19 10:29:19 info: i
+2021-11-19 10:29:19 info: 9
+2021-11-19 10:29:19 info: i mayor que cero y dato anterior diferente al actual
+2021-11-19 10:29:19 info: [object Object]
+2021-11-19 10:29:19 info: [object Object]
+2021-11-19 10:29:19 info: i
+2021-11-19 10:29:19 info: 10
+2021-11-19 10:33:20 info:  [login.js]  METODO: Login
+2021-11-19 10:33:20 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 10:33:20 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 10:33:20 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 10:33:24 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 10:33:24 info: query_str====================================>
+2021-11-19 10:33:24 info: CALL spConsultaMenu(1)
+2021-11-19 10:33:25 info: hash------------------------------->
+2021-11-19 10:33:25 info: $2b$10$7XI4lA/Ja0efocAhn/KwD.p9C2PjArTmLS88TE/eIcTDinGQFh5iK
+2021-11-19 10:33:29 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 10:33:29 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 10:33:29 info: query_str====================================>
+2021-11-19 10:33:29 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 10:33:34 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 10:33:34 info: numPrivilegios
+2021-11-19 10:33:34 info: 11
+2021-11-19 10:33:34 info: i
+2021-11-19 10:33:34 info: 0
+2021-11-19 10:33:34 info: [object Object]
+2021-11-19 10:33:34 info: [object Object]
+2021-11-19 10:33:34 info: i
+2021-11-19 10:33:34 info: 1
+2021-11-19 10:33:34 info: i mayor que cero y dato anterior diferente al actual
+2021-11-19 10:33:34 info: [object Object]
+2021-11-19 10:33:34 info: [object Object]
+2021-11-19 10:33:34 info: i
+2021-11-19 10:33:34 info: 2
+2021-11-19 10:33:34 info: i
+2021-11-19 10:33:34 info: 3
+2021-11-19 10:33:34 info: i
+2021-11-19 10:33:34 info: 4
+2021-11-19 10:33:34 info: i
+2021-11-19 10:33:34 info: 5
+2021-11-19 10:33:34 info: i mayor que cero y dato anterior diferente al actual
+2021-11-19 10:33:34 info: [object Object]
+2021-11-19 10:33:34 info: [object Object]
+2021-11-19 10:33:34 info: i
+2021-11-19 10:33:34 info: 6
+2021-11-19 10:33:34 info: i
+2021-11-19 10:33:34 info: 7
+2021-11-19 10:33:34 info: i
+2021-11-19 10:33:34 info: 8
+2021-11-19 10:33:34 info: i
+2021-11-19 10:33:34 info: 9
+2021-11-19 10:33:34 info: i mayor que cero y dato anterior diferente al actual
+2021-11-19 10:33:34 info: [object Object]
+2021-11-19 10:33:34 info: [object Object]
+2021-11-19 10:33:34 info: i
+2021-11-19 10:33:34 info: 10
+2021-11-19 10:33:34 info: listaPaginas===============>>>>
+2021-11-19 10:33:34 info: [{"pagina":"Inicio","url":"./sidenav/inicio","privilegios":[{"idAccion":4,"accion":"Consultar"}]},{"pagina":"Usuarios","url":"./sidenav/usuarios","privilegios":[{"idAccion":1,"accion":"Registrar"},{"idAccion":2,"accion":"Modificar"},{"idAccion":3,"accion":"Eliminar"},{"idAccion":4,"accion":"Consultar"}]},{"pagina":"Pre Registro","url":"./sidenav/preRegistro","privilegios":[{"idAccion":1,"accion":"Registrar"},{"idAccion":2,"accion":"Modificar"},{"idAccion":3,"accion":"Eliminar"},{"idAccion":4,"accion":"Consultar"}]},{"pagina":"QR","url":"./sidenav/qr","privilegios":[{"idAccion":4,"accion":"Consultar"},{"idAccion":7,"accion":"Exportar"}]}]
+2021-11-19 10:35:30 info:  [login.js]  METODO: Login
+2021-11-19 10:35:30 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 10:35:30 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 10:35:30 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 10:35:30 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 10:35:30 info: query_str====================================>
+2021-11-19 10:35:30 info: CALL spConsultaMenu(1)
+2021-11-19 10:35:30 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 10:35:30 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 10:35:30 info: query_str====================================>
+2021-11-19 10:35:30 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 10:35:30 info: hash------------------------------->
+2021-11-19 10:35:30 info: $2b$10$8jveJWjtJcOvbAAuVASV9eaykbkGDcyoTlaAyOw9h7P/cEFKnVD9e
+2021-11-19 10:35:30 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 10:35:30 info: numPrivilegios
+2021-11-19 10:35:30 info: 11
+2021-11-19 10:35:30 info: i
+2021-11-19 10:35:30 info: 0
+2021-11-19 10:35:30 info: [object Object]
+2021-11-19 10:35:30 info: [object Object]
+2021-11-19 10:35:30 info: i
+2021-11-19 10:35:30 info: 1
+2021-11-19 10:35:30 info: i mayor que cero y dato anterior diferente al actual
+2021-11-19 10:35:30 info: [object Object]
+2021-11-19 10:35:30 info: [object Object]
+2021-11-19 10:35:30 info: i
+2021-11-19 10:35:30 info: 2
+2021-11-19 10:35:30 info: i
+2021-11-19 10:35:30 info: 3
+2021-11-19 10:35:30 info: i
+2021-11-19 10:35:30 info: 4
+2021-11-19 10:35:30 info: i
+2021-11-19 10:35:30 info: 5
+2021-11-19 10:35:30 info: i mayor que cero y dato anterior diferente al actual
+2021-11-19 10:35:30 info: [object Object]
+2021-11-19 10:35:30 info: [object Object]
+2021-11-19 10:35:30 info: i
+2021-11-19 10:35:30 info: 6
+2021-11-19 10:35:30 info: i
+2021-11-19 10:35:30 info: 7
+2021-11-19 10:35:30 info: i
+2021-11-19 10:35:30 info: 8
+2021-11-19 10:35:30 info: i
+2021-11-19 10:35:30 info: 9
+2021-11-19 10:35:30 info: i mayor que cero y dato anterior diferente al actual
+2021-11-19 10:35:30 info: [object Object]
+2021-11-19 10:35:30 info: [object Object]
+2021-11-19 10:35:30 info: i
+2021-11-19 10:35:30 info: 10
+2021-11-19 10:35:30 info: listaPaginas===============>>>>
+2021-11-19 10:35:30 info: [{"pagina":"Inicio","url":"./sidenav/inicio","privilegios":[{"idAccion":4,"accion":"Consultar"}]},{"pagina":"Usuarios","url":"./sidenav/usuarios","privilegios":[{"idAccion":1,"accion":"Registrar"},{"idAccion":2,"accion":"Modificar"},{"idAccion":3,"accion":"Eliminar"},{"idAccion":4,"accion":"Consultar"}]},{"pagina":"Pre Registro","url":"./sidenav/preRegistro","privilegios":[{"idAccion":1,"accion":"Registrar"},{"idAccion":2,"accion":"Modificar"},{"idAccion":3,"accion":"Eliminar"},{"idAccion":4,"accion":"Consultar"}]},{"pagina":"QR","url":"./sidenav/qr","privilegios":[{"idAccion":4,"accion":"Consultar"},{"idAccion":7,"accion":"Exportar"}]}]
+2021-11-19 10:37:19 info:  [login.js]  METODO: Login
+2021-11-19 10:37:19 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-19 10:37:19 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 10:37:19 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-19 10:37:19 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerMenu 
+2021-11-19 10:37:19 info: query_str====================================>
+2021-11-19 10:37:19 info: CALL spConsultaMenu(5)
+2021-11-19 10:37:19 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 10:37:19 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerPrivilegios 
+2021-11-19 10:37:19 info: query_str====================================>
+2021-11-19 10:37:19 info: CALL spConsultaPrivilegiosPagina(5)
+2021-11-19 10:37:19 info: hash------------------------------->
+2021-11-19 10:37:19 info: $2b$10$.mHZh.MNBziQjENFBdGbXuYTn3011tpmY0f5KdiDU0U0xT5bBOHPS
+2021-11-19 10:37:19 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 16:47:10 info:  [login.js]  METODO: Login
+2021-11-19 16:47:10 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 16:47:10 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 16:47:10 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 16:47:11 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 16:47:11 info: query_str====================================>
+2021-11-19 16:47:11 info: CALL spConsultaMenu(1)
+2021-11-19 16:47:11 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 16:47:11 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 16:47:11 info: query_str====================================>
+2021-11-19 16:47:11 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 16:47:11 info: hash------------------------------->
+2021-11-19 16:47:11 info: $2b$10$DANX8LowOEnCgjd15F9dg.FRqIqWjPF9P.u/IdW6ntdyucA52okia
+2021-11-19 16:47:11 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 16:47:11 info: [object Object]
+2021-11-19 16:47:11 info: [object Object]
+2021-11-19 16:47:11 info: i mayor que cero y dato anterior diferente al actual
+2021-11-19 16:47:11 info: [object Object]
+2021-11-19 16:47:11 info: [object Object]
+2021-11-19 16:47:11 info: i mayor que cero y dato anterior diferente al actual
+2021-11-19 16:47:11 info: [object Object]
+2021-11-19 16:47:11 info: [object Object]
+2021-11-19 16:47:11 info: i mayor que cero y dato anterior diferente al actual
+2021-11-19 16:47:11 info: [object Object]
+2021-11-19 16:47:11 info: [object Object]
+2021-11-19 16:47:11 info: listaPaginas===============>>>>
+2021-11-19 16:47:11 info: [{"pagina":"Inicio","url":"./sidenav/inicio","privilegios":[{"idAccion":4,"accion":"Consultar"}]},{"pagina":"Usuarios","url":"./sidenav/usuarios","privilegios":[{"idAccion":1,"accion":"Registrar"},{"idAccion":2,"accion":"Modificar"},{"idAccion":3,"accion":"Eliminar"},{"idAccion":4,"accion":"Consultar"}]},{"pagina":"Pre Registro","url":"./sidenav/preRegistro","privilegios":[{"idAccion":1,"accion":"Registrar"},{"idAccion":2,"accion":"Modificar"},{"idAccion":3,"accion":"Eliminar"},{"idAccion":4,"accion":"Consultar"}]},{"pagina":"QR","url":"./sidenav/qr","privilegios":[{"idAccion":4,"accion":"Consultar"},{"idAccion":7,"accion":"Exportar"}]}]
+2021-11-19 17:12:53 info:  [login.js]  METODO: Login
+2021-11-19 17:12:53 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 17:12:53 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 17:12:53 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 17:12:53 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 17:12:53 info: query_str====================================>
+2021-11-19 17:12:53 info: CALL spConsultaMenu(1)
+2021-11-19 17:12:53 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 17:12:53 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 17:12:53 info: query_str====================================>
+2021-11-19 17:12:53 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 17:12:53 info: hash------------------------------->
+2021-11-19 17:12:53 info: $2b$10$18BUtMOLWxAMF6n3E3OjeubK7pS3luAFp/G3OxFCmurVSJI3BaMla
+2021-11-19 17:12:53 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 17:12:53 info: listaPaginas===============>>>>
+2021-11-19 17:12:53 info: [{"pagina":"Inicio","url":"./sidenav/inicio","privilegios":[{"idAccion":4,"accion":"Consultar"}]},{"pagina":"Usuarios","url":"./sidenav/usuarios","privilegios":[{"idAccion":1,"accion":"Registrar"},{"idAccion":2,"accion":"Modificar"},{"idAccion":3,"accion":"Eliminar"},{"idAccion":4,"accion":"Consultar"}]},{"pagina":"Pre Registro","url":"./sidenav/preRegistro","privilegios":[{"idAccion":1,"accion":"Registrar"},{"idAccion":2,"accion":"Modificar"},{"idAccion":3,"accion":"Eliminar"},{"idAccion":4,"accion":"Consultar"}]},{"pagina":"QR","url":"./sidenav/qr","privilegios":[{"idAccion":4,"accion":"Consultar"},{"idAccion":7,"accion":"Exportar"}]}]
+2021-11-19 17:13:08 info:  [login.js]  METODO: Login
+2021-11-19 17:13:08 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 17:13:08 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 17:13:08 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 17:13:08 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 17:13:08 info: query_str====================================>
+2021-11-19 17:13:08 info: CALL spConsultaMenu(1)
+2021-11-19 17:13:08 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 17:13:08 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 17:13:08 info: query_str====================================>
+2021-11-19 17:13:08 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 17:13:08 info: hash------------------------------->
+2021-11-19 17:13:08 info: $2b$10$a70iRlPJmg9aS/E1Vjfe0ek0v7tXM6Hv/oKbPOwDZMygwl5FzFX0u
+2021-11-19 17:13:08 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 19:39:52 info:  [login.js]  METODO: Login
+2021-11-19 19:39:52 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 19:39:52 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 19:39:52 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 19:39:53 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 19:39:53 info: query_str====================================>
+2021-11-19 19:39:53 info: CALL spConsultaMenu(1)
+2021-11-19 19:39:53 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 19:39:53 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:53 info: undefined
+2021-11-19 19:39:53 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:53 info: undefined
+2021-11-19 19:39:53 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:53 info: undefined
+2021-11-19 19:39:53 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:53 info: undefined
+2021-11-19 19:39:53 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:53 info: undefined
+2021-11-19 19:39:53 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:53 info: undefined
+2021-11-19 19:39:53 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:53 info: undefined
+2021-11-19 19:39:53 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:53 info: undefined
+2021-11-19 19:39:53 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:53 info: [object Object]
+2021-11-19 19:39:53 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:53 info: undefined
+2021-11-19 19:39:53 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:53 info: undefined
+2021-11-19 19:39:53 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:53 info: [object Object]
+2021-11-19 19:39:53 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:54 info: undefined
+2021-11-19 19:39:54 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:54 info: undefined
+2021-11-19 19:39:54 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:54 info: undefined
+2021-11-19 19:39:54 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:54 info: undefined
+2021-11-19 19:39:54 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:54 info: undefined
+2021-11-19 19:39:54 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:54 info: undefined
+2021-11-19 19:39:54 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:54 info: undefined
+2021-11-19 19:39:54 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:54 info: undefined
+2021-11-19 19:39:54 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:39:54 info: undefined
+2021-11-19 19:39:54 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 19:39:54 info: query_str====================================>
+2021-11-19 19:39:54 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 19:39:54 info: hash------------------------------->
+2021-11-19 19:39:54 info: $2b$10$J9Q0hB4BRc.bcL52C4u5turnrxl3qR/ttK4HaDs98QeGU4hrKK66y
+2021-11-19 19:39:54 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 19:48:03 info:  [login.js]  METODO: Login
+2021-11-19 19:48:03 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 19:48:03 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 19:48:03 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 19:48:03 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 19:48:03 info: query_str====================================>
+2021-11-19 19:48:03 info: CALL spConsultaMenu(1)
+2021-11-19 19:48:03 info: hash------------------------------->
+2021-11-19 19:48:03 info: $2b$10$lPzlYkCOrCamGvzR7KS4pOiVrqT6QdmyLtIZtgtC0x9sZkJITPDOu
+2021-11-19 19:48:03 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 19:48:03 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:48:03 info: {"IdMenu":13,"Nombre":"Gas LP","Icono":"fireplace","Ruta":"./sidenav/gasLP","IdMenuGrupo":12}
+2021-11-19 19:48:03 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 19:48:03 info: {"IdMenu":21,"Nombre":"Concesionarios","Icono":"","Ruta":"","IdMenuGrupo":18}
+2021-11-19 19:48:03 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 19:48:03 info: query_str====================================>
+2021-11-19 19:48:03 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 19:48:03 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:02:53 info:  [login.js]  METODO: Login
+2021-11-19 20:02:53 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 20:02:53 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 20:02:53 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 20:02:53 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 20:02:53 info: query_str====================================>
+2021-11-19 20:02:53 info: CALL spConsultaMenu(1)
+2021-11-19 20:02:53 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:02:53 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:02:53 info: {"IdMenu":13,"Nombre":"Gas LP","Icono":"fireplace","Ruta":"./sidenav/gasLP","IdMenuGrupo":12}
+2021-11-19 20:02:53 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:02:53 info: {"IdMenu":21,"Nombre":"Concesionarios","Icono":"","Ruta":"","IdMenuGrupo":18}
+2021-11-19 20:02:53 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 20:02:53 info: query_str====================================>
+2021-11-19 20:02:53 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 20:02:53 info: hash------------------------------->
+2021-11-19 20:02:53 info: $2b$10$Ju6q5XRKw5GJGNizNOYoaeeJm/M7W6M6vHbXY9VfEpU3YmESIb4zm
+2021-11-19 20:02:53 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:05:19 info:  [login.js]  METODO: Login
+2021-11-19 20:05:19 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 20:05:19 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 20:05:19 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 20:05:19 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 20:05:19 info: query_str====================================>
+2021-11-19 20:05:19 info: CALL spConsultaMenu(1)
+2021-11-19 20:05:19 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:05:19 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:05:19 info: {"IdMenu":13,"Nombre":"Gas LP","Icono":"fireplace","Ruta":"./sidenav/gasLP","IdMenuGrupo":12}
+2021-11-19 20:05:19 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:05:19 info: {"IdMenu":21,"Nombre":"Concesionarios","Icono":"","Ruta":"","IdMenuGrupo":18}
+2021-11-19 20:05:19 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 20:05:19 info: query_str====================================>
+2021-11-19 20:05:19 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 20:05:19 info: hash------------------------------->
+2021-11-19 20:05:19 info: $2b$10$KQ7rFbfbxAhDeVQI6iHYP.ofIlJatW44PeNk4lfCYCbbHTQRJUyry
+2021-11-19 20:05:19 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:07:20 info:  [login.js]  METODO: Login
+2021-11-19 20:07:20 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 20:07:20 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 20:07:20 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 20:07:20 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 20:07:20 info: query_str====================================>
+2021-11-19 20:07:20 info: CALL spConsultaMenu(1)
+2021-11-19 20:07:20 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:07:20 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:07:20 info: {"IdMenu":13,"Nombre":"Gas LP","Icono":"fireplace","Ruta":"./sidenav/gasLP","IdMenuGrupo":12}
+2021-11-19 20:07:20 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:07:20 info: {"IdMenu":21,"Nombre":"Concesionarios","Icono":"","Ruta":"","IdMenuGrupo":18}
+2021-11-19 20:07:20 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 20:07:20 info: query_str====================================>
+2021-11-19 20:07:20 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 20:07:20 info: hash------------------------------->
+2021-11-19 20:07:20 info: $2b$10$M5vLaova9bWU2C6E62rdO.I0Wg/hGh.N6hOja2DNN4dB0rFxK4vTi
+2021-11-19 20:07:20 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:21:22 info:  [login.js]  METODO: Login
+2021-11-19 20:21:22 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 20:21:22 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 20:21:22 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 20:21:22 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 20:21:22 info: query_str====================================>
+2021-11-19 20:21:22 info: CALL spConsultaMenu(1)
+2021-11-19 20:21:22 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:21:22 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:21:22 info: {"IdMenu":13,"Nombre":"Gas LP","Icono":"fireplace","Ruta":"./sidenav/gasLP","IdMenuGrupo":12}
+2021-11-19 20:21:22 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:21:22 info: {"IdMenu":21,"Nombre":"Concesionarios","Icono":"","Ruta":"","IdMenuGrupo":18}
+2021-11-19 20:21:22 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 20:21:22 info: query_str====================================>
+2021-11-19 20:21:22 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 20:21:22 error: Se presentó un error al generar el menú: ReferenceError: resultadoDatMenu is not defined
+2021-11-19 20:21:22 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: Se presentó un error al generar el menú: ReferenceError: resultadoDatMenu is not defined
+2021-11-19 20:21:22 info: hash------------------------------->
+2021-11-19 20:21:22 info: $2b$10$gfdaDFue9rpLijSd5slM1ewmRSDCSkE3F5PcaigZhFtpk5nrFibH6
+2021-11-19 20:21:22 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:21:46 info:  [login.js]  METODO: Login
+2021-11-19 20:21:46 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 20:21:46 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 20:21:46 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 20:21:47 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 20:21:47 info: query_str====================================>
+2021-11-19 20:21:47 info: CALL spConsultaMenu(1)
+2021-11-19 20:21:47 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:21:47 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:21:47 info: {"IdMenu":13,"Nombre":"Gas LP","Icono":"fireplace","Ruta":"./sidenav/gasLP","IdMenuGrupo":12}
+2021-11-19 20:21:47 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:21:47 info: {"IdMenu":21,"Nombre":"Concesionarios","Icono":"","Ruta":"","IdMenuGrupo":18}
+2021-11-19 20:21:47 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 20:21:47 info: query_str====================================>
+2021-11-19 20:21:47 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 20:21:47 info: hash------------------------------->
+2021-11-19 20:21:47 info: $2b$10$ISf1PiIMsRRQr88zvZdPVOakaDdOF1ZgZvL4xCTu7.KAfCvTeeE/.
+2021-11-19 20:21:47 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:22:56 info:  [login.js]  METODO: Login
+2021-11-19 20:22:56 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 20:22:56 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 20:22:56 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 20:22:56 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 20:22:56 info: query_str====================================>
+2021-11-19 20:22:56 info: CALL spConsultaMenu(1)
+2021-11-19 20:22:56 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:22:56 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:22:56 info: {"IdMenu":13,"Nombre":"Gas LP","Icono":"fireplace","Ruta":"./sidenav/gasLP","IdMenuGrupo":12}
+2021-11-19 20:22:56 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:22:56 info: {"IdMenu":21,"Nombre":"Concesionarios","Icono":"","Ruta":"","IdMenuGrupo":18}
+2021-11-19 20:22:56 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 20:22:56 info: query_str====================================>
+2021-11-19 20:22:56 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 20:22:56 info: hash------------------------------->
+2021-11-19 20:22:56 info: $2b$10$rIBXtHvonyI6fWOLGj6GXe1DbXaWQaBeOQ1BT9rZpDy1EXJULIskO
+2021-11-19 20:22:56 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:23:33 info:  [login.js]  METODO: Login
+2021-11-19 20:23:33 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 20:23:33 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 20:23:33 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 20:23:33 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 20:23:33 info: query_str====================================>
+2021-11-19 20:23:33 info: CALL spConsultaMenu(1)
+2021-11-19 20:23:33 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:23:33 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:23:33 info: {"IdMenu":13,"Nombre":"Gas LP","Icono":"fireplace","Ruta":"./sidenav/gasLP","IdMenuGrupo":12}
+2021-11-19 20:23:33 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:23:33 info: {"IdMenu":21,"Nombre":"Concesionarios","Icono":"","Ruta":"","IdMenuGrupo":18}
+2021-11-19 20:23:33 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 20:23:33 info: query_str====================================>
+2021-11-19 20:23:33 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 20:23:33 info: arreglo====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:23:33 info: [{"displayName":"Gas LP","iconName":"fireplace","route":"./sidenav/gasLP"},{"displayName":"Gasolina","iconName":"local_gas_station","route":"./sidenav/gasolina"}]
+2021-11-19 20:23:33 info: arreglo====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:23:33 info: [{"displayName":"Concesionarios","iconName":"","route":""},{"displayName":"Operadores","iconName":"","route":""},{"displayName":"Vehículos","iconName":"","route":""},{"displayName":"Estaciones","iconName":"","route":""}]
+2021-11-19 20:23:34 info: hash------------------------------->
+2021-11-19 20:23:34 info: $2b$10$AidoczoJK2fXYElc3MufUuCFYDb684BE6S9vWPdhOHATKNbEUJVXG
+2021-11-19 20:23:34 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:30:27 info:  [login.js]  METODO: Login
+2021-11-19 20:30:27 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 20:30:27 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 20:30:27 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 20:30:28 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 20:30:28 info: query_str====================================>
+2021-11-19 20:30:28 info: CALL spConsultaMenu(1)
+2021-11-19 20:30:28 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:30:28 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:30:28 info: {"IdMenu":13,"Nombre":"Gas LP","Icono":"fireplace","Ruta":"./sidenav/gasLP","IdMenuGrupo":12}
+2021-11-19 20:30:28 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:30:28 info: {"IdMenu":21,"Nombre":"Concesionarios","Icono":"","Ruta":"","IdMenuGrupo":18}
+2021-11-19 20:30:28 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 20:30:28 info: query_str====================================>
+2021-11-19 20:30:28 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 20:30:28 info: hash------------------------------->
+2021-11-19 20:30:28 info: $2b$10$ki4gWZdlTI9UE0VhsxVFjOqdL8gMZgd6s4I65bIVhjEVFpRLq2YPq
+2021-11-19 20:30:28 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:39:10 info:  [login.js]  METODO: Login
+2021-11-19 20:39:10 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 20:39:10 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 20:39:10 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 20:39:11 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 20:39:11 info: query_str====================================>
+2021-11-19 20:39:11 info: CALL spConsultaMenu(1)
+2021-11-19 20:39:11 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:39:11 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:39:11 info: {"IdMenu":13,"Nombre":"Gas LP","Icono":"fireplace","Ruta":"./sidenav/gasLP","IdMenuGrupo":12}
+2021-11-19 20:39:11 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:39:11 info: {"IdMenu":21,"Nombre":"Concesionarios","Icono":"","Ruta":"","IdMenuGrupo":18}
+2021-11-19 20:39:11 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 20:39:11 info: query_str====================================>
+2021-11-19 20:39:11 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 20:39:11 info: hash------------------------------->
+2021-11-19 20:39:11 info: $2b$10$hPGrHOLan/QXWyFIVWPpieK7AjP5pzwNEQHgiL9MYRCkeaUX4uoHa
+2021-11-19 20:39:11 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:56:51 info:  [login.js]  METODO: Login
+2021-11-19 20:56:51 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 20:56:51 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 20:56:51 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 20:56:52 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 20:56:52 info: query_str====================================>
+2021-11-19 20:56:52 info: CALL spConsultaMenu(1)
+2021-11-19 20:56:52 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:56:52 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:56:52 info: {"IdMenu":13,"Nombre":"Gas LP","Icono":"fireplace","Ruta":"./sidenav/gasLP","IdMenuGrupo":12}
+2021-11-19 20:56:52 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:56:52 info: {"IdMenu":21,"Nombre":"Concesionarios","Icono":"","Ruta":"","IdMenuGrupo":18}
+2021-11-19 20:56:52 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 20:56:52 info: query_str====================================>
+2021-11-19 20:56:52 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 20:56:52 info: hash------------------------------->
+2021-11-19 20:56:52 info: $2b$10$hPcjx1CcqEtJyUMcsrBE1eWc5Tyv8WpZA1Sri7mM9SbfZltAvSdRe
+2021-11-19 20:56:52 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:58:24 info:  [login.js]  METODO: Login
+2021-11-19 20:58:24 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 20:58:24 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 20:58:24 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 20:58:24 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 20:58:24 info: query_str====================================>
+2021-11-19 20:58:24 info: CALL spConsultaMenu(1)
+2021-11-19 20:58:24 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 20:58:24 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:58:24 info: {"IdMenu":13,"Nombre":"Gas LP","Icono":"fireplace","Ruta":"./sidenav/gasLP","IdMenuGrupo":12}
+2021-11-19 20:58:24 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 20:58:24 info: {"IdMenu":21,"Nombre":"Concesionarios","Icono":"","Ruta":"","IdMenuGrupo":18}
+2021-11-19 20:58:24 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 20:58:24 info: query_str====================================>
+2021-11-19 20:58:24 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 20:58:24 info: hash------------------------------->
+2021-11-19 20:58:24 info: $2b$10$uvycd2mnElrTfNDaFoKhdeydAI7oZHZ2cunQCmSzrzAaH7RAPtWoq
+2021-11-19 20:58:24 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 21:06:09 info:  [login.js]  METODO: Login
+2021-11-19 21:06:09 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2021-11-19 21:06:09 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-19 21:06:09 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2021-11-19 21:06:09 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerMenu 
+2021-11-19 21:06:09 info: query_str====================================>
+2021-11-19 21:06:09 info: CALL spConsultaMenu(1)
+2021-11-19 21:06:09 info: hash------------------------------->
+2021-11-19 21:06:09 info: $2b$10$cH89jDGPgVNxT0iAujEQDuNoU.0gSJvoN8m88iXmBQq32PdFwxif6
+2021-11-19 21:06:09 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200
+2021-11-19 21:06:09 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 21:06:09 info: {"IdMenu":13,"Nombre":"Gas LP","Icono":"fireplace","Ruta":"./sidenav/gasLP","IdMenuGrupo":12}
+2021-11-19 21:06:09 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 21:06:09 info: {"IdMenu":21,"Nombre":"Concesionarios","Icono":"","Ruta":"","IdMenuGrupo":18}
+2021-11-19 21:06:09 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 21:06:09 info: {"IdMenu":42,"Nombre":"Sub sub menú","Icono":"list","Ruta":"sidenav","IdMenuGrupo":41}
+2021-11-19 21:06:09 info: existenHijos====================>>>>>>>>>>>>>>>>>>>
+2021-11-19 21:06:09 info: {"IdMenu":43,"Nombre":"Sub sub sub menú","Icono":"qr_code","Ruta":"./sidenav/qr","IdMenuGrupo":42}
+2021-11-19 21:06:09 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerPrivilegios 
+2021-11-19 21:06:09 info: query_str====================================>
+2021-11-19 21:06:09 info: CALL spConsultaPrivilegiosPagina(1)
+2021-11-19 21:06:10 info:  [login.dao.js]  METODO: validarContrasenia RESPUESTA: ok = true, mensaje = Consulta exitosa, codigo =  AV200

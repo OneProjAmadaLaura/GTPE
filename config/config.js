@@ -6,7 +6,7 @@ configBD = {
     host: '192.168.1.31',
     user: 'root',
     password: 'root2021',
-    database: 'Conciliacion',
+    database: 'gtpe',
     port: 3306
 };
 

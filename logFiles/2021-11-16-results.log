@@ -1,0 +1,699 @@
+2021-11-16 18:21:00 info:  [login.js]  METODO: Login
+2021-11-16 18:21:43 info:  [login.js]  METODO: Login
+2021-11-16 18:22:43 info:  [login.js]  METODO: Login
+2021-11-16 18:22:43 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> 
+2021-11-16 18:24:08 info:  [login.js]  METODO: Login
+2021-11-16 18:24:08 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> 
+2021-11-16 18:25:49 info:  [login.js]  METODO: Login
+2021-11-16 18:25:49 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> 
+2021-11-16 18:26:15 info:  [login.js]  METODO: Login
+2021-11-16 18:26:15 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> 
+2021-11-16 18:34:28 info:  [login.js]  METODO: Login
+2021-11-16 18:34:28 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> 
+2021-11-16 18:35:07 info:  [login.js]  METODO: Login
+2021-11-16 18:35:07 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> 
+2021-11-16 18:49:35 info:  [login.js]  METODO: Login
+2021-11-16 18:49:35 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> 
+2021-11-16 18:55:34 info:  [login.js]  METODO: Login
+2021-11-16 18:55:34 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> 
+2021-11-16 18:55:34 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 18:55:34 info: datos
+2021-11-16 18:55:34 info: [object Object]
+2021-11-16 18:55:34 error: usuario is not defined
+2021-11-16 18:55:34 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: ReferenceError: usuario is not defined
+2021-11-16 18:58:12 info:  [login.js]  METODO: Login
+2021-11-16 18:58:12 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> 
+2021-11-16 18:58:12 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 18:58:12 info: stringData
+2021-11-16 18:58:12 info: {"idUsuario":"","contrasenia":""}
+2021-11-16 18:58:12 error: usuario is not defined
+2021-11-16 18:58:12 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: ReferenceError: usuario is not defined
+2021-11-16 19:03:34 info:  [login.js]  METODO: Login
+2021-11-16 19:03:34 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 19:03:34 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 19:03:34 error: Assignment to constant variable.
+2021-11-16 19:03:34 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: TypeError: Assignment to constant variable.
+2021-11-16 19:05:31 info:  [login.js]  METODO: Login
+2021-11-16 19:05:31 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 19:05:31 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 19:05:31 info: stringData ****usuarioAccesoModel
+2021-11-16 19:05:31 info: {"idUsuario":"JGONZALEZ","contrasenia":""}
+2021-11-16 19:05:31 error: modUsuario is not defined
+2021-11-16 19:05:31 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: ReferenceError: modUsuario is not defined
+2021-11-16 19:06:39 info:  [login.js]  METODO: Login
+2021-11-16 19:06:39 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 19:06:39 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 19:06:39 info: stringData ****usuarioAccesoModel
+2021-11-16 19:06:39 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 19:06:39 error: modUsuario is not defined
+2021-11-16 19:06:39 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: ReferenceError: modUsuario is not defined
+2021-11-16 19:07:11 info:  [login.js]  METODO: Login
+2021-11-16 19:07:11 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 19:07:11 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 19:07:11 info: stringData ****usuarioAccesoModel
+2021-11-16 19:07:11 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 19:07:11 error: modUsuario is not defined
+2021-11-16 19:07:11 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: ReferenceError: modUsuario is not defined
+2021-11-16 19:41:39 info:  [login.js]  METODO: Login
+2021-11-16 19:41:39 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 19:41:39 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 19:41:39 info: stringData ****usuarioAccesoModel
+2021-11-16 19:41:39 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 19:41:39 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 19:41:39 error: Se presentó un error en BdObtenerUsuario: Error: Cannot find module 'mysql2'
+Require stack:
+- C:\GTPE\dao\login.dao.js
+- C:\GTPE\routes\login.js
+- C:\GTPE\routes\index.js
+- C:\GTPE\app.js
+2021-11-16 19:41:39 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: Se presentó un error en BdObtenerUsuario: Error: Cannot find module 'mysql2'
+Require stack:
+- C:\GTPE\dao\login.dao.js
+- C:\GTPE\routes\login.js
+- C:\GTPE\routes\index.js
+- C:\GTPE\app.js
+2021-11-16 19:44:05 info:  [login.js]  METODO: Login
+2021-11-16 19:44:05 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 19:44:05 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 19:44:05 info: stringData ****usuarioAccesoModel
+2021-11-16 19:44:05 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 19:44:05 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 19:44:06 info: stringData22 ****respuesta
+2021-11-16 19:44:06 info: {}
+2021-11-16 19:44:06 error: resultado is not defined
+2021-11-16 19:44:06 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: ReferenceError: resultado is not defined
+2021-11-16 19:45:29 info:  [login.js]  METODO: Login
+2021-11-16 19:45:29 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 19:45:29 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 19:45:29 info: stringData ****usuarioAccesoModel
+2021-11-16 19:45:29 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 19:45:29 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 19:45:30 info: dat ****respuesta
+2021-11-16 19:45:30 info: [object Object]
+2021-11-16 19:45:30 info: stringData22 ****respuesta
+2021-11-16 19:45:30 info: {}
+2021-11-16 19:45:30 error: modUsuario is not defined
+2021-11-16 19:45:30 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: ReferenceError: modUsuario is not defined
+2021-11-16 19:50:07 info:  [login.js]  METODO: Login
+2021-11-16 19:50:07 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 19:50:07 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 19:50:07 info: stringData ****usuarioAccesoModel
+2021-11-16 19:50:07 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 19:50:07 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 19:50:07 info: configBD
+2021-11-16 19:50:07 info: [object Object]
+2021-11-16 19:50:07 info: dat ****respuesta
+2021-11-16 19:50:07 info: [object Object]
+2021-11-16 19:50:07 info: stringData22 ****respuesta
+2021-11-16 19:50:07 info: {}
+2021-11-16 19:50:07 error: modUsuario is not defined
+2021-11-16 19:50:07 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: ReferenceError: modUsuario is not defined
+2021-11-16 19:51:10 info:  [login.js]  METODO: Login
+2021-11-16 19:51:10 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 19:51:10 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 19:51:10 info: stringData ****usuarioAccesoModel
+2021-11-16 19:51:10 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 19:51:10 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 19:51:10 info: configBDs
+2021-11-16 19:51:10 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 19:51:10 error: Se presentó un error en BdObtenerUsuario: ReferenceError: resultado is not defined
+2021-11-16 19:51:10 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: Se presentó un error en BdObtenerUsuario: ReferenceError: resultado is not defined
+2021-11-16 19:52:53 info:  [login.js]  METODO: Login
+2021-11-16 19:52:53 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 19:52:53 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 19:52:53 info: stringData ****usuarioAccesoModel
+2021-11-16 19:52:53 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 19:52:53 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 19:52:54 info: configBDs
+2021-11-16 19:52:54 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 19:52:54 error: Se presentó un error en BdObtenerUsuario: ReferenceError: resultado is not defined
+2021-11-16 19:52:54 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: Se presentó un error en BdObtenerUsuario: ReferenceError: resultado is not defined
+2021-11-16 19:53:18 info:  [login.js]  METODO: Login
+2021-11-16 19:53:18 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 19:53:18 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 19:53:18 info: stringData ****usuarioAccesoModel
+2021-11-16 19:53:18 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 19:53:18 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 19:53:18 info: configBDs
+2021-11-16 19:53:18 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 19:53:18 info: rows
+2021-11-16 19:53:18 info: [object Object],[object Object]
+2021-11-16 19:53:18 info: dat ****respuesta
+2021-11-16 19:53:18 info: [object Object]
+2021-11-16 19:53:18 info: stringData22 ****respuesta
+2021-11-16 19:53:18 info: {}
+2021-11-16 19:53:18 error: modUsuario is not defined
+2021-11-16 19:53:18 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: ReferenceError: modUsuario is not defined
+2021-11-16 19:53:54 info:  [login.js]  METODO: Login
+2021-11-16 19:53:54 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 19:53:54 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 19:53:54 info: stringData ****usuarioAccesoModel
+2021-11-16 19:53:54 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 19:53:54 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 19:53:54 info: configBDs
+2021-11-16 19:53:54 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 19:53:55 info: rowsd
+2021-11-16 19:53:55 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 19:53:55 info: dat ****respuesta
+2021-11-16 19:53:55 info: [object Object]
+2021-11-16 19:53:55 info: stringData22 ****respuesta
+2021-11-16 19:53:55 info: {}
+2021-11-16 19:53:55 error: modUsuario is not defined
+2021-11-16 19:53:55 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: ReferenceError: modUsuario is not defined
+2021-11-16 19:54:13 info:  [login.js]  METODO: Login
+2021-11-16 19:54:13 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 19:54:13 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 19:54:13 info: stringData ****usuarioAccesoModel
+2021-11-16 19:54:13 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 19:54:13 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 19:54:13 info: configBDs
+2021-11-16 19:54:13 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 19:54:13 info: rowsd
+2021-11-16 19:54:13 info: [[{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5}],{"fieldCount":0,"affectedRows":0,"insertId":0,"info":"","serverStatus":34,"warningStatus":1}]
+2021-11-16 19:54:13 info: dat ****respuesta
+2021-11-16 19:54:13 info: [object Object]
+2021-11-16 19:54:13 info: stringData22 ****respuesta
+2021-11-16 19:54:13 info: {}
+2021-11-16 19:54:13 error: modUsuario is not defined
+2021-11-16 19:54:13 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: ReferenceError: modUsuario is not defined
+2021-11-16 19:54:48 info:  [login.js]  METODO: Login
+2021-11-16 19:54:48 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 19:54:48 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 19:54:48 info: stringData ****usuarioAccesoModel
+2021-11-16 19:54:48 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 19:54:48 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 19:54:48 info: configBDs
+2021-11-16 19:54:48 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 19:54:49 info: rowsd
+2021-11-16 19:54:49 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5}]
+2021-11-16 19:54:49 info: dat ****respuesta
+2021-11-16 19:54:49 info: [object Object]
+2021-11-16 19:54:49 info: stringData22 ****respuesta
+2021-11-16 19:54:49 info: {}
+2021-11-16 19:54:49 error: modUsuario is not defined
+2021-11-16 19:54:49 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: ReferenceError: modUsuario is not defined
+2021-11-16 19:55:28 info:  [login.js]  METODO: Login
+2021-11-16 19:55:28 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 19:55:28 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 19:55:28 info: stringData ****usuarioAccesoModel
+2021-11-16 19:55:28 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 19:55:28 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 19:55:28 info: configBDs
+2021-11-16 19:55:28 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 19:55:28 info: rowsd
+2021-11-16 19:55:28 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5}]
+2021-11-16 19:55:28 info: dat ****respuesta
+2021-11-16 19:55:28 info: [object Object]
+2021-11-16 19:55:28 info: stringData22 ****respuesta
+2021-11-16 19:55:28 info: {}
+2021-11-16 19:55:28 error: modUsuario is not defined
+2021-11-16 19:55:28 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: ReferenceError: modUsuario is not defined
+2021-11-16 19:56:16 info:  [login.js]  METODO: Login
+2021-11-16 19:56:16 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 19:56:16 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 19:56:16 info: stringData ****usuarioAccesoModel
+2021-11-16 19:56:16 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 19:56:16 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 19:56:16 info: configBDs
+2021-11-16 19:56:16 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 19:56:16 info: rowsd
+2021-11-16 19:56:16 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5}]
+2021-11-16 19:56:16 info: dat ****resultado
+2021-11-16 19:56:16 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5}]
+2021-11-16 19:56:16 info: stringData22 ****respuesta
+2021-11-16 19:56:16 info: {}
+2021-11-16 19:56:16 error: modUsuario is not defined
+2021-11-16 19:56:16 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: ReferenceError: modUsuario is not defined
+2021-11-16 20:00:08 info:  [login.js]  METODO: Login
+2021-11-16 20:00:08 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> undefined
+2021-11-16 20:00:08 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:00:08 info: stringData ****usuarioAccesoModel
+2021-11-16 20:00:08 info: {}
+2021-11-16 20:00:08 info:  [login.dao.js] [Usuario: undefined] METODO: BdObtenerUsuario 
+2021-11-16 20:00:08 info: configBDs
+2021-11-16 20:00:08 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 20:00:08 info: rowsd
+2021-11-16 20:00:08 info: [{"resultado":0,"mensaje":"El usuario indicado no existe"}]
+2021-11-16 20:00:08 info: dat ****resultado
+2021-11-16 20:00:08 info: [{"resultado":0,"mensaje":"El usuario indicado no existe"}]
+2021-11-16 20:00:08 info: stringData22 ****respuesta
+2021-11-16 20:00:08 info: {}
+2021-11-16 20:00:08 error: modUsuario is not defined
+2021-11-16 20:00:08 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: ReferenceError: modUsuario is not defined
+2021-11-16 20:01:47 info:  [login.js]  METODO: Login
+2021-11-16 20:01:47 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> undefined
+2021-11-16 20:01:47 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:01:47 info: stringData ****usuarioAccesoModel
+2021-11-16 20:01:47 info: {}
+2021-11-16 20:01:47 info:  [login.dao.js] [Usuario: undefined] METODO: BdObtenerUsuario 
+2021-11-16 20:01:47 info: configBDs
+2021-11-16 20:01:47 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 20:01:48 info: rowsd
+2021-11-16 20:01:48 info: [{"resultado":0,"mensaje":"El usuario indicado no existe"}]
+2021-11-16 20:01:48 info: dat ****resultado
+2021-11-16 20:01:48 info: [{"resultado":0,"mensaje":"El usuario indicado no existe"}]
+2021-11-16 20:01:48 info: stringData22 ****respuesta
+2021-11-16 20:01:48 info: {}
+2021-11-16 20:01:48 error: modUsuario is not defined
+2021-11-16 20:01:48 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: ReferenceError: modUsuario is not defined
+2021-11-16 20:03:08 info:  [login.js]  METODO: Login
+2021-11-16 20:03:08 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:03:08 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:03:08 info: stringData ****usuarioAccesoModel
+2021-11-16 20:03:08 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:03:08 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:03:09 info: configBDs
+2021-11-16 20:03:09 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 20:03:09 info: rowsd
+2021-11-16 20:03:09 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:03:09 info: dat ****resultado
+2021-11-16 20:03:09 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:03:09 info: stringData22 ****respuesta
+2021-11-16 20:03:09 info: {}
+2021-11-16 20:03:09 error: modUsuario is not defined
+2021-11-16 20:03:09 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: ReferenceError: modUsuario is not defined
+2021-11-16 20:08:30 info:  [login.js]  METODO: Login
+2021-11-16 20:08:30 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:08:30 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:08:30 info: stringData ****usuarioAccesoModel
+2021-11-16 20:08:30 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:08:30 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:08:30 info: configBDs
+2021-11-16 20:08:30 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 20:08:30 info: rowsd
+2021-11-16 20:08:30 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:08:30 info: dat ****resultado
+2021-11-16 20:08:30 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:08:30 info: stringData22 ****respuesta
+2021-11-16 20:08:30 info: {}
+2021-11-16 20:08:30 error:  [login.js] ERROR: undefined
+2021-11-16 20:09:49 info:  [login.js]  METODO: Login
+2021-11-16 20:09:49 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:09:49 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:09:49 info: stringData ****usuarioAccesoModel
+2021-11-16 20:09:49 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:09:49 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:09:49 info: configBDs
+2021-11-16 20:09:49 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 20:09:50 info: rowsd
+2021-11-16 20:09:50 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:09:50 info: dat ****resultado
+2021-11-16 20:09:50 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:09:50 info: stringData22 ****respuesta
+2021-11-16 20:09:50 info: {}
+2021-11-16 20:09:50 info: bbbbbbbbbb
+2021-11-16 20:09:50 error:  [login.js] ERROR: undefined
+2021-11-16 20:10:14 info:  [login.js]  METODO: Login
+2021-11-16 20:10:14 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:10:14 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:10:14 info: stringData ****usuarioAccesoModel
+2021-11-16 20:10:14 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:10:14 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:10:14 info: configBDs
+2021-11-16 20:10:14 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 20:10:14 info: rowsd
+2021-11-16 20:10:14 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:10:14 info: dat ****resultado
+2021-11-16 20:10:14 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:10:14 info: stringData22 ****respuesta
+2021-11-16 20:10:14 info: {}
+2021-11-16 20:10:14 info: respuesta.resultado
+2021-11-16 20:10:14 info: undefined
+2021-11-16 20:10:14 info: bbbbbbbbbb
+2021-11-16 20:10:14 error:  [login.js] ERROR: undefined
+2021-11-16 20:11:01 info:  [login.js]  METODO: Login
+2021-11-16 20:11:01 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:11:01 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:11:01 info: stringData ****usuarioAccesoModel
+2021-11-16 20:11:01 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:11:01 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:11:01 info: configBDs
+2021-11-16 20:11:01 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 20:11:01 info: rowsd
+2021-11-16 20:11:01 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:11:01 info: dat ****resultado
+2021-11-16 20:11:01 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:11:01 info: stringData22 ****respuesta
+2021-11-16 20:11:01 info: {}
+2021-11-16 20:11:01 info: respuesta.resultado
+2021-11-16 20:11:01 info: undefined
+2021-11-16 20:11:01 info: bbbbbbbbbb
+2021-11-16 20:11:01 error:  [login.js] ERROR: undefined
+2021-11-16 20:11:49 info:  [login.js]  METODO: Login
+2021-11-16 20:11:49 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:11:49 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:11:49 info: stringData ****usuarioAccesoModel
+2021-11-16 20:11:49 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:11:49 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:11:49 info: configBDs
+2021-11-16 20:11:49 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 20:11:49 info: rowsd
+2021-11-16 20:11:49 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:11:49 info: dat ****resultado
+2021-11-16 20:11:49 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:11:49 info: stringData22 ****respuesta
+2021-11-16 20:11:49 info: {}
+2021-11-16 20:11:49 info: respuesta.resultado
+2021-11-16 20:11:49 info: undefined
+2021-11-16 20:11:49 info: bbbbbbbbbb
+2021-11-16 20:11:49 error:  [login.js] ERROR: undefined
+2021-11-16 20:12:32 info:  [login.js]  METODO: Login
+2021-11-16 20:12:32 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:12:32 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:12:32 info: stringData ****usuarioAccesoModel
+2021-11-16 20:12:32 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:12:32 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:12:32 info: configBDs
+2021-11-16 20:12:32 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 20:12:32 info: rowsd
+2021-11-16 20:12:32 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:12:32 info: dat ****resultado
+2021-11-16 20:12:32 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:12:32 info: stringData22 ****respuesta
+2021-11-16 20:12:32 info: {}
+2021-11-16 20:12:32 info: respuesta.resultado
+2021-11-16 20:12:32 info: undefined
+2021-11-16 20:12:32 info: bbbbbbbbbb
+2021-11-16 20:12:32 error:  [login.js] ERROR: undefined
+2021-11-16 20:13:00 info:  [login.js]  METODO: Login
+2021-11-16 20:13:00 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:13:00 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:13:00 info: stringData ****usuarioAccesoModel
+2021-11-16 20:13:00 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:13:00 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:13:00 info: configBDs
+2021-11-16 20:13:00 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 20:13:00 info: rowsd
+2021-11-16 20:13:00 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:13:00 info: dat ****resultado
+2021-11-16 20:13:00 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:13:00 info: stringData22 ****respuesta
+2021-11-16 20:13:00 info: {}
+2021-11-16 20:13:00 info: respuesta.resultado
+2021-11-16 20:13:00 info: undefined
+2021-11-16 20:13:00 info: bbbbbbbbbb
+2021-11-16 20:13:00 error:  [login.js] ERROR: undefined
+2021-11-16 20:14:45 info:  [login.js]  METODO: Login
+2021-11-16 20:14:45 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:14:45 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:14:45 info: stringData ****usuarioAccesoModel
+2021-11-16 20:14:45 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:14:45 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:14:46 info: configBDs
+2021-11-16 20:14:46 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 20:14:46 info: rowsd
+2021-11-16 20:14:46 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:14:46 info: dat ****resultado
+2021-11-16 20:14:46 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:14:46 info: stringData22 ****respuesta
+2021-11-16 20:14:46 info: {}
+2021-11-16 20:14:46 info: respuesta.resultado
+2021-11-16 20:14:46 info: undefined
+2021-11-16 20:14:46 info: bbbbbbbbbb
+2021-11-16 20:14:46 error:  [login.js] ERROR: undefined
+2021-11-16 20:15:47 info:  [login.js]  METODO: Login
+2021-11-16 20:15:47 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:15:47 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:15:47 info: stringData ****usuarioAccesoModel
+2021-11-16 20:15:47 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:15:47 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:15:47 info: configBDs
+2021-11-16 20:15:47 info: {"host":"192.168.1.31","user":"root","password":"root2021","database":"gtpe","port":3306}
+2021-11-16 20:15:47 info: rowsd
+2021-11-16 20:15:47 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:15:47 info: dat ****resultado
+2021-11-16 20:15:47 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:15:47 info: stringData22 ****respuesta
+2021-11-16 20:15:47 info: {}
+2021-11-16 20:15:47 info: respuesta.resultado
+2021-11-16 20:15:47 info: undefined
+2021-11-16 20:15:47 info: bbbbbbbbbb
+2021-11-16 20:15:47 error:  [login.js] ERROR: undefined
+2021-11-16 20:16:59 info:  [login.js]  METODO: Login
+2021-11-16 20:16:59 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:16:59 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:16:59 info: stringData ****usuarioAccesoModel
+2021-11-16 20:16:59 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:16:59 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:16:59 info: dat ****resultado
+2021-11-16 20:16:59 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:16:59 info: stringData22 ****respuesta
+2021-11-16 20:16:59 info: {}
+2021-11-16 20:16:59 info: respuesta.resultado
+2021-11-16 20:16:59 info: undefined
+2021-11-16 20:16:59 info: bbbbbbbbbb
+2021-11-16 20:16:59 error:  [login.js] ERROR: undefined
+2021-11-16 20:19:25 info:  [login.js]  METODO: Login
+2021-11-16 20:19:25 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:19:25 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:19:25 info: stringData ****usuarioAccesoModel
+2021-11-16 20:19:25 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:19:25 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:19:25 info:  ****resultado
+2021-11-16 20:19:25 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:19:25 info: dat ****
+2021-11-16 20:19:25 info: [object Object]
+2021-11-16 20:19:25 info: stringData22 ****respuesta
+2021-11-16 20:19:25 info: {}
+2021-11-16 20:19:25 info: respuesta.resultado
+2021-11-16 20:19:25 info: undefined
+2021-11-16 20:19:25 info: bbbbbbbbbb
+2021-11-16 20:19:25 error:  [login.js] ERROR: undefined
+2021-11-16 20:20:13 info:  [login.js]  METODO: Login
+2021-11-16 20:20:13 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:20:13 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:20:13 info: stringData ****usuarioAccesoModel
+2021-11-16 20:20:13 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:20:13 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:20:13 info:  ****resultado
+2021-11-16 20:20:13 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:20:13 info: dat ****
+2021-11-16 20:20:13 info: [object Object]
+2021-11-16 20:20:13 info: stringData22 ****respuesta
+2021-11-16 20:20:13 info: {}
+2021-11-16 20:20:13 info: respuesta.resultado
+2021-11-16 20:20:13 info: undefined
+2021-11-16 20:20:13 info: bbbbbbbbbb
+2021-11-16 20:20:13 error:  [login.js] ERROR: undefined
+2021-11-16 20:21:19 info:  [login.js]  METODO: Login
+2021-11-16 20:21:19 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:21:19 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:21:19 info: stringData ****usuarioAccesoModel
+2021-11-16 20:21:19 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:21:19 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:21:19 info:  ****resultado Nombre
+2021-11-16 20:21:19 info: undefined
+2021-11-16 20:21:19 info: dat ****
+2021-11-16 20:21:19 info: [object Object]
+2021-11-16 20:21:19 info: stringData22 ****respuesta
+2021-11-16 20:21:19 info: {}
+2021-11-16 20:21:19 info: respuesta.resultado
+2021-11-16 20:21:19 info: undefined
+2021-11-16 20:21:19 info: bbbbbbbbbb
+2021-11-16 20:21:19 error:  [login.js] ERROR: undefined
+2021-11-16 20:21:30 info:  [login.js]  METODO: Login
+2021-11-16 20:21:30 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:21:30 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:21:30 info: stringData ****usuarioAccesoModel
+2021-11-16 20:21:30 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:21:30 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:21:30 info:  ****resultado Nombre
+2021-11-16 20:21:30 info: undefined
+2021-11-16 20:21:30 info: dat ****
+2021-11-16 20:21:30 info: [object Object]
+2021-11-16 20:21:30 info: stringData22 ****respuesta
+2021-11-16 20:21:30 info: {}
+2021-11-16 20:21:30 info: respuesta.resultado
+2021-11-16 20:21:30 info: undefined
+2021-11-16 20:21:30 info: bbbbbbbbbb
+2021-11-16 20:21:30 error:  [login.js] ERROR: undefined
+2021-11-16 20:23:49 info:  [login.js]  METODO: Login
+2021-11-16 20:23:49 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:23:49 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:23:49 info: stringData ****usuarioAccesoModel
+2021-11-16 20:23:49 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:23:49 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:23:49 info:  ****resultado Nombre
+2021-11-16 20:23:49 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:23:49 info: dat ****
+2021-11-16 20:23:49 info: undefined
+2021-11-16 20:23:49 info: stringData22 ****respuesta
+2021-11-16 20:23:49 info: {}
+2021-11-16 20:23:49 info: respuesta.resultado
+2021-11-16 20:23:49 info: undefined
+2021-11-16 20:23:49 info: bbbbbbbbbb
+2021-11-16 20:23:49 error:  [login.js] ERROR: undefined
+2021-11-16 20:24:04 info:  [login.js]  METODO: Login
+2021-11-16 20:24:04 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:24:04 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:24:04 info: stringData ****usuarioAccesoModel
+2021-11-16 20:24:04 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:24:04 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:24:04 info:  ****resultado Nombre
+2021-11-16 20:24:04 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:24:04 info: dat ****
+2021-11-16 20:24:04 error: Cannot read property 'Nombre' of undefined
+2021-11-16 20:24:04 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: TypeError: Cannot read property 'Nombre' of undefined
+2021-11-16 20:24:34 info:  [login.js]  METODO: Login
+2021-11-16 20:24:34 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:24:34 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:24:34 info: stringData ****usuarioAccesoModel
+2021-11-16 20:24:34 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:24:34 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:24:35 info:  ****resultado Nombre
+2021-11-16 20:24:35 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:24:35 info: dat ****
+2021-11-16 20:24:35 info: Javier González Soto
+2021-11-16 20:24:35 info: stringData22 ****respuesta
+2021-11-16 20:24:35 info: {}
+2021-11-16 20:24:35 info: respuesta.resultado
+2021-11-16 20:24:35 info: undefined
+2021-11-16 20:24:35 info: bbbbbbbbbb
+2021-11-16 20:24:35 error:  [login.js] ERROR: undefined
+2021-11-16 20:25:01 info:  [login.js]  METODO: Login
+2021-11-16 20:25:01 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:25:01 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:25:01 info: stringData ****usuarioAccesoModel
+2021-11-16 20:25:01 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:25:01 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:25:01 info:  ****resultado Nombre
+2021-11-16 20:25:01 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:25:01 info: dat ****
+2021-11-16 20:25:01 info: Javier González Soto
+2021-11-16 20:25:01 info: stringData22 ****respuesta
+2021-11-16 20:25:01 info: {}
+2021-11-16 20:25:01 info: respuesta.resultado
+2021-11-16 20:25:01 info: undefined
+2021-11-16 20:25:01 info: bbbbbbbbbb
+2021-11-16 20:25:01 error:  [login.js] ERROR: undefined
+2021-11-16 20:25:50 info:  [login.js]  METODO: Login
+2021-11-16 20:25:50 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:25:50 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:25:50 info: stringData ****usuarioAccesoModel
+2021-11-16 20:25:50 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:25:50 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:25:50 info:  ****resultado Nombre
+2021-11-16 20:25:50 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:25:50 info: dat ****
+2021-11-16 20:25:50 info: Javier González Soto
+2021-11-16 20:25:50 info: respuesta ****respuesta
+2021-11-16 20:25:50 info: [object Object]
+2021-11-16 20:25:50 info: respuesta.resultado
+2021-11-16 20:25:50 info: undefined
+2021-11-16 20:25:50 info: bbbbbbbbbb
+2021-11-16 20:25:50 error:  [login.js] ERROR: undefined
+2021-11-16 20:26:27 info:  [login.js]  METODO: Login
+2021-11-16 20:26:27 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:26:27 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:26:27 info: stringData ****usuarioAccesoModel
+2021-11-16 20:26:27 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:26:27 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:26:27 info:  ****resultado Nombre
+2021-11-16 20:26:27 info: [{"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}]
+2021-11-16 20:26:27 info: dat ****
+2021-11-16 20:26:27 info: Javier González Soto
+2021-11-16 20:26:27 info: dat[0] ****dat[0]
+2021-11-16 20:26:27 info: [object Object]
+2021-11-16 20:26:27 info: respuesta.resultado
+2021-11-16 20:26:27 info: undefined
+2021-11-16 20:26:27 info: bbbbbbbbbb
+2021-11-16 20:26:27 error:  [login.js] ERROR: undefined
+2021-11-16 20:27:06 info:  [login.js]  METODO: Login
+2021-11-16 20:27:06 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:27:06 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:27:06 info: stringData ****usuarioAccesoModel
+2021-11-16 20:27:06 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:27:06 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:27:06 info:  ****resultado Nombre
+2021-11-16 20:27:06 info: {"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}
+2021-11-16 20:27:06 info: dat ****
+2021-11-16 20:27:06 error: Cannot read property 'Nombre' of undefined
+2021-11-16 20:27:06 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: TypeError: Cannot read property 'Nombre' of undefined
+2021-11-16 20:28:04 info:  [login.js]  METODO: Login
+2021-11-16 20:28:04 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:28:04 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:28:04 info: stringData ****usuarioAccesoModel
+2021-11-16 20:28:04 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:28:04 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:28:04 info:  ****resultado Nombre
+2021-11-16 20:28:04 info: {"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}
+2021-11-16 20:28:04 info: resultado.Nombre ****
+2021-11-16 20:28:04 info: undefined
+2021-11-16 20:28:04 error: Cannot read property 'idUsuario' of undefined
+2021-11-16 20:28:04 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: TypeError: Cannot read property 'idUsuario' of undefined
+2021-11-16 20:29:13 info:  [login.js]  METODO: Login
+2021-11-16 20:29:13 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:29:13 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:29:13 info: stringData ****usuarioAccesoModel
+2021-11-16 20:29:13 info: {"idUsuario":"JGONZALEZ","contrasenia":"algoraro"}
+2021-11-16 20:29:13 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:29:13 info:  ****resultado Nombre
+2021-11-16 20:29:13 info: {"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}
+2021-11-16 20:29:13 info: resultado.Nombre ****
+2021-11-16 20:29:13 info: undefined
+2021-11-16 20:29:13 info: dat[0] ****dat[0]
+2021-11-16 20:29:13 info: undefined
+2021-11-16 20:29:13 info: respuesta.resultado
+2021-11-16 20:29:13 info: undefined
+2021-11-16 20:29:13 info: bbbbbbbbbb
+2021-11-16 20:29:13 error:  [login.js] ERROR: undefined
+2021-11-16 20:30:23 info:  [login.js]  METODO: Login
+2021-11-16 20:30:23 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:30:23 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:30:23 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:30:23 info:  ****resultado Nombre
+2021-11-16 20:30:23 info: {"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}
+2021-11-16 20:30:23 info: resultado.Nombre ****
+2021-11-16 20:30:23 info: undefined
+2021-11-16 20:30:23 info: dat[0] ****dat[0]
+2021-11-16 20:30:23 info: undefined
+2021-11-16 20:30:23 info: respuesta.resultado
+2021-11-16 20:30:23 info: undefined
+2021-11-16 20:30:23 info: bbbbbbbbbb
+2021-11-16 20:30:23 error:  [login.js] ERROR: undefined
+2021-11-16 20:31:52 info:  [login.js]  METODO: Login
+2021-11-16 20:31:52 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:31:52 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:31:52 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:31:52 info:  ****resultado Nombre
+2021-11-16 20:31:52 info: {"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}
+2021-11-16 20:31:52 info: resultado.Nombre ****
+2021-11-16 20:31:52 info: undefined
+2021-11-16 20:31:52 info: dat[0] ****dat[0]
+2021-11-16 20:31:52 info: undefined
+2021-11-16 20:31:52 info: respuesta.resultado
+2021-11-16 20:31:52 info: [object Object]
+2021-11-16 20:31:52 info: aaaa
+2021-11-16 20:31:52 error:  [login.js] ERROR: ReferenceError: modUsuario is not defined
+2021-11-16 20:33:48 info:  [login.js]  METODO: Login
+2021-11-16 20:33:48 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:33:48 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:33:48 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:33:48 info:  ****resultado Nombre
+2021-11-16 20:33:48 info: {"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}
+2021-11-16 20:33:48 info: resultado.Nombre ****
+2021-11-16 20:33:48 info: undefined
+2021-11-16 20:33:48 info: dat[0] ****dat[0]
+2021-11-16 20:33:48 info: undefined
+2021-11-16 20:33:48 info: respuesta.resultado
+2021-11-16 20:33:48 info: [object Object]
+2021-11-16 20:33:48 info: aaaa
+2021-11-16 20:33:48 info: usuarioDat.mensaje rrrrrrrrrrrrr
+2021-11-16 20:33:48 info: [object Object]
+2021-11-16 20:33:48 error:  [login.js] ERROR: ReferenceError: modUsuario is not defined
+2021-11-16 20:34:38 info:  [login.js]  METODO: Login
+2021-11-16 20:34:38 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JGONZALEZ
+2021-11-16 20:34:38 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-16 20:34:38 info:  [login.dao.js] [Usuario: JGONZALEZ] METODO: BdObtenerUsuario 
+2021-11-16 20:34:39 info:  ****resultado Nombre
+2021-11-16 20:34:39 info: {"resultado":1,"mensaje":"Operación exitosa","IdUsuario":"JGONZALEZ","Nombre":"Javier González Soto","Contrasenia":"JGONZALEZ","IdPerfil":5,"IdEmpleado":3,"Estatus":"A"}
+2021-11-16 20:34:39 info: resultado.Nombre ****
+2021-11-16 20:34:39 info: undefined
+2021-11-16 20:34:39 info: dat[0] ****dat[0]
+2021-11-16 20:34:39 info: undefined
+2021-11-16 20:34:39 info: respuesta.resultado
+2021-11-16 20:34:39 info: [object Object]
+2021-11-16 20:34:39 info: aaaa
+2021-11-16 20:34:39 info: usuarioDat.resultadodddresultadodddresultadoddd rrrrrrrrrrrrr
+2021-11-16 20:34:39 info: {"ok":{},"mensaje":{},"usuario":{}}
+2021-11-16 20:34:39 error:  [login.js] ERROR: ReferenceError: modUsuario is not defined

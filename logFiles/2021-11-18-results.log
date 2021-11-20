@@ -1,0 +1,21 @@
+2021-11-18 00:00:52 info:  [login.js]  METODO: Login
+2021-11-18 00:00:52 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JLOPEZ
+2021-11-18 00:00:52 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-18 00:00:52 info:  [login.dao.js] [Usuario: JLOPEZ] METODO: BdObtenerUsuario 
+2021-11-18 00:00:52 error:  [login.js] ERROR: Verifique la contraseña
+2021-11-18 00:00:53 info: hash------------------------------->
+2021-11-18 00:00:53 info: $2b$10$g8SkjBWog1U3TaCGZek8veBTK5wMVBFMpHF2ZwBIX8r2kDWRitbbW
+2021-11-18 00:02:43 info:  [login.js]  METODO: Login
+2021-11-18 00:02:43 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JLOPEZ
+2021-11-18 00:02:43 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-18 00:02:43 info:  [login.dao.js] [Usuario: JLOPEZ] METODO: BdObtenerUsuario 
+2021-11-18 00:02:47 error:  [login.js] Atención: Verifique la contraseña
+2021-11-18 00:02:48 info: hash------------------------------->
+2021-11-18 00:02:48 info: $2b$10$BEF2qSrpYftgRInmX8qrKuR54WNqUQjdRkK5ElL1pEa0anrCAXky2
+2021-11-18 00:03:10 info:  [login.js]  METODO: Login
+2021-11-18 00:03:10 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> JLOPEZ
+2021-11-18 00:03:10 info:  [login.dao.js]  METODO: validarContrasenia
+2021-11-18 00:03:10 info:  [login.dao.js] [Usuario: JLOPEZ] METODO: BdObtenerUsuario 
+2021-11-18 00:03:10 info:  [login.js] Atención: Verifique la contraseña
+2021-11-18 00:03:10 info: hash------------------------------->
+2021-11-18 00:03:10 info: $2b$10$BGFqJgHAZjhgIHtIdCG2uOGFzCOz9XWBifukGKs3b2jC/0BGsippK
